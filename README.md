@@ -28,5 +28,8 @@ a gente quer .
   - E depois e só passar o sua senha de Login na Maquina Mac e Finish!!! , Ta la seu P12. 
   
   PRA CIMA FÉ EM DEUS!!
+  
+  
+  Helpful Links : https://help.apple.com/xcode/mac/current/#/dev3a05256b8
 
 
